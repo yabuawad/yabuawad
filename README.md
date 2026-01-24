@@ -1,5 +1,5 @@
 ## Hi there 👋
-![real](img.png)
+<img src="img.png" width="400" />
 <!--
 **yabuawad/yabuawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
